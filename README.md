@@ -15,3 +15,5 @@ Copyright (c) 2020, David Machalz
 
 Project based on the
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
+
+# Comment added to practice creating branches
