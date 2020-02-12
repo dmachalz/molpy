@@ -1,8 +1,8 @@
 molpy
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/molpy.svg?branch=master)](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/molpy)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molpy/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molpy/branch/master)
+[![Travis Build Status](https://travis-ci.com/dmachalz/molpy.svg?branch=master)](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/molpy)
+[![codecov](https://codecov.io/gh/dmachalz/molpy/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molpy/branch/master)
 
 Practise on molscience python package.
 
